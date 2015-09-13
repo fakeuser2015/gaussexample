@@ -36,4 +36,3 @@ La idea es aprender a usar github para entregar las tareas. El ejercicio consist
 1. Use **add**, **commit** con un mensaje apropiado.
 1. [**Push**] los cambios a su cuenta GitHub.
 1. Cree un **pull request** en el repositorio original (en este momento la tarea/ejercicio esta entregado).
-
